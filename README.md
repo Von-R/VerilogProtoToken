@@ -5,6 +5,8 @@ Huggingface dataset: Von-R/verilog_preprocessed_anonymized
 Contact: Von.Roth.1991@gmail.com
 https://huggingface.co/Von-R/VerilogProtoToken/blob/main/README.md
 
+Full report: https://github.com/Von-R/VerilogProtoToken/blob/3e7844328d70674d8bacd7d5f90af00bf21fa3fe/Project_Report.md
+
 **Project Overview**
 
 Verilog is a Hardware Description Language (HDL) used for designing electronic systems such as Field Programmable Gate Arrays (FPGAs) and Application-Specific Integrated Circuits (ASICs). Programming in Verilog can be tedious and time-consuming. This project aims to create a foundation for a future Verilog coding copilot—a tool designed to streamline the coding process, ensure best practices, and reduce errors.
