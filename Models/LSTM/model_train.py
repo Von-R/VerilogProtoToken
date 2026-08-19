@@ -48,7 +48,7 @@ accelerator = Accelerator(mixed_precision="fp16")
 device = accelerator.device
 
 # Token and tokenizer path
-token = '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'
+token = #
 tokenizer_path = "custom_tokenizer_gpt2.json"
 
 # Load the training and validation datasets
