@@ -138,7 +138,7 @@ def evaluate_model(model_path):
     print_memory_usage("After model and tokenizer initialization")
 
     # Load the test dataset
-    token = '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'
+    token = #
     dataset_test = load_dataset("Von-R/sub500var", split='test', use_auth_token=token)
     dataset_test = dataset_test.select(range(500))  # Select a subset for faster evaluation
     print("Dataset Structure:", dataset_test)
