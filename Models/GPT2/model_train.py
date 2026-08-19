@@ -126,7 +126,7 @@ def train_model(num_epochs, batch_size, learning_rate, weight_decay, warmup_step
     best_model_dir = f"{model_dir}_best"
     final_model_dir = f"{model_dir}_final"
     logs_dir = f"./logs/{job_name}"
-    token = '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'
+    token = #
     tokenizer_path = "custom_tokenizer_gpt2.json"
 
     # Load datasets
