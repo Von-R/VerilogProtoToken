@@ -114,7 +114,7 @@ def evaluate_model(model_dir, model_file):
     model.load_state_dict(torch.load(model_path, map_location=device))
 
     # Load the test dataset
-    token = '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'
+    token = #
     dataset_test = load_dataset("Von-R/sub500var", split='test', use_auth_token=token)
 
     # Tokenize the test dataset
